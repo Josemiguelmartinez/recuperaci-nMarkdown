@@ -1,6 +1,6 @@
 # Jose Miguel Martínez Romero
 ## Tecnico Superior Desarrollo Aplicaciones Web
-![Imagen Personal]()
+![Imagen Gatito](gato.jpg)
 
 ### Vivo en Novelda
 ### Actualmente trabajo en un colegio como Tecnico de sistemas
